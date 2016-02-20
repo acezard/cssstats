@@ -5144,4 +5144,6 @@ body .form-item-end-date-date::after {
 .section-bibliotheque .form-item-end-date-date::after {
   color: #61749b; }
   
-#a #b #c #d #e #f #g #h #i #j
+#a #b #c #d #e #f #g #h #i #j {
+   color: #61749b;
+}
