@@ -5144,5 +5144,4 @@ body .form-item-end-date-date::after {
 .section-bibliotheque .form-item-end-date-date::after {
   color: #61749b; }
 
-#test .one .two .three {
-  display: none; }
+#content-area form#emf-subscription-list-form #edit-fields-Datedenaissance-day-wrapper select { display: none; }
